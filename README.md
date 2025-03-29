@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm currently a tech student 🔭
-- Diving into the world of Front-end 🌱. 
-- Feel free to reach out to me via LinkedIn: www.linkedin.com/in/ubiratan-junior-583383197/ 📫.
+- Cursando Análise e Desenvolcimento de Sistemas 🔭
+- Se aprofundando na área de análise de dados 
+- Meu LinkedIn: www.linkedin.com/in/ubiratan-junior-583383197/ 📫.
 
 
