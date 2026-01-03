@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- Cursando Análise e Desenvolvimento de Sistemas 🔭
+- Formado em Análise e Desenvolvimento de Sistemas 🔭
+- Atuando como analista de projetos há 1 ano
 - Se aprofundando na área de análise de dados 💻
-- Meu LinkedIn: www.linkedin.com/in/ubiratan-junior-583383197/ 📫.
+- Meu LinkedIn: www.linkedin.com/in/ubiratanjr99 📫.
 
 
